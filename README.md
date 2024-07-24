@@ -1,5 +1,6 @@
 # Harisenin Full Stack Developer Bootcamp - Express.js Practice
 
+
 This is a simple Express.js application for practicing the concepts learned in the Harisenin Full Stack Developer Bootcamp.
 
 ## Installation
@@ -18,12 +19,3 @@ This is a simple Express.js application for practicing the concepts learned in t
 
 - POST `/api/auth/register` Register a new user
 - POST `/api/auth/login` Get JWT token
-
-### Books
-
-- GET `/api/books?keyword=&page=1&limit=5` Get all books with pagination and search
-
-### Orders
-
-- GET `/api/orders` Get my orders
-- POST `/api/orders` Create an order
